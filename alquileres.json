@@ -1,0 +1,26 @@
+[
+  {
+    "id": "alquiler-demo-001",
+    "negocio_id": "demo-001",
+    "nombre": "Espacio de Ejemplo",
+    "categoria": "Coworking",
+    "ciudad": "Santa Cruz de Tenerife",
+    "direccion": "Calle Ejemplo 1",
+    "descripcion": "Espacio de coworking de ejemplo disponible para alquiler.",
+    "precio_dia": 30,
+    "precio_semana": 150,
+    "precio_mes": 400,
+    "capacidad": 10,
+    "disponible_desde": "2026-11-01",
+    "amenidades": ["wifi", "cafe", "impresora"],
+    "foto_url": "",
+    "galeria": [],
+    "maps_link": "",
+    "maps_embed_url": "",
+    "tour360_url": "",
+    "enlace_reserva": "",
+    "enlace_ficha": "/alquiler/alquiler-demo-001",
+    "tags": [],
+    "activo": true
+  }
+]
