@@ -1,0 +1,17 @@
+[
+  {
+    "id": "demo-001",
+    "nombre": "Negocio de Ejemplo",
+    "categoria": "Restaurantes",
+    "ciudad": "Santa Cruz de Tenerife",
+    "direccion": "Calle Ejemplo 1",
+    "telefono": "+34 600 000 000",
+    "descripcion": "Ficha de ejemplo para probar el espejo.",
+    "rating": 4.8,
+    "num_reseñas": 12,
+    "estado": "destacado",
+    "plan": "pro",
+    "foto_url": "",
+    "enlace_ficha": "/negocio-local/demo-001"
+  }
+]
