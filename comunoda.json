@@ -1,0 +1,47 @@
+[
+  {
+    "id": "portal-gps-001",
+    "tipo": "portal",
+    "parent_id": null,
+    "nombre": "GPS Soluciones",
+    "descripcion": "Portal principal del programa Genius Partner Soluciones.",
+    "categoria": "Mentoria y Negocio",
+    "foto_url": "",
+    "enlace_portal": "",
+    "num_miembros": 0,
+    "estado": "activo",
+    "plan": "pro",
+    "tags": ["gps", "mentoria", "negocio"],
+    "activo": true
+  },
+  {
+    "id": "espacio-gps-force-001",
+    "tipo": "espacio",
+    "parent_id": "portal-gps-001",
+    "nombre": "GPS Force",
+    "descripcion": "Espacio de colaboracion y campanas dentro del portal GPS.",
+    "categoria": "Colaboracion",
+    "foto_url": "",
+    "enlace_portal": "",
+    "num_miembros": 0,
+    "estado": "activo",
+    "plan": "pro",
+    "tags": ["gps-force", "campanas"],
+    "activo": true
+  },
+  {
+    "id": "canal-gps-ventas-001",
+    "tipo": "canal",
+    "parent_id": "espacio-gps-force-001",
+    "nombre": "Red de Ventas GPS",
+    "descripcion": "Canal de red de ventas con niveles dentro de GPS Force.",
+    "categoria": "Ventas",
+    "foto_url": "",
+    "enlace_canal": "",
+    "num_miembros": 0,
+    "estado": "activo",
+    "plan": "pro",
+    "tags": ["ventas", "red", "niveles"],
+    "activo": true
+  }
+]
