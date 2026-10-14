@@ -1,0 +1,23 @@
+[
+  {
+    "id": "evento-demo-001",
+    "negocio_id": "demo-001",
+    "nombre": "Evento de Ejemplo",
+    "categoria": "Networking",
+    "ciudad": "Santa Cruz de Tenerife",
+    "descripcion": "Descripcion del evento de ejemplo.",
+    "fecha_inicio": "2026-11-01",
+    "fecha_fin": "2026-11-01",
+    "hora": "18:00",
+    "modalidad": "presencial",
+    "precio": "0",
+    "precio_miembro": "0",
+    "aforo": 50,
+    "plazas_disponibles": 50,
+    "foto_url": "",
+    "enlace_registro": "",
+    "enlace_ficha": "/evento/evento-demo-001",
+    "tags": [],
+    "activo": true
+  }
+]
