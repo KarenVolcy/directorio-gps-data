@@ -1,0 +1,20 @@
+[
+  {
+    "id": "servicio-demo-001",
+    "negocio_id": "demo-001",
+    "nombre": "Servicio de Ejemplo",
+    "categoria": "Consultoria",
+    "ciudad": "Santa Cruz de Tenerife",
+    "descripcion": "Descripcion del servicio de ejemplo.",
+    "precio": "50",
+    "precio_unidad": "hora",
+    "duracion": "1h",
+    "modalidad": "presencial",
+    "foto_url": "",
+    "enlace_reserva": "",
+    "enlace_ficha": "/servicio/servicio-demo-001",
+    "disponibilidad": "Lun-Vie",
+    "tags": [],
+    "activo": true
+  }
+]
