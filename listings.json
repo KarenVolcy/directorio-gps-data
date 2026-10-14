@@ -13,5 +13,20 @@
     "plan": "pro",
     "foto_url": "",
     "enlace_ficha": "/negocio-local/demo-001"
+  },
+  {
+    "id": "test-1791978700136",
+    "nombre": "Sin nombre",
+    "categoria": "",
+    "ciudad": "",
+    "direccion": "",
+    "telefono": "",
+    "descripcion": "",
+    "rating": 0,
+    "num_reseñas": 0,
+    "estado": "nuevo",
+    "plan": "basica",
+    "foto_url": "",
+    "enlace_ficha": "/negocio-local/test-1791978700136"
   }
 ]
