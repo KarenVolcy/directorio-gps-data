@@ -8,7 +8,7 @@
     "telefono": "+34 600 000 000",
     "descripcion": "Ficha de ejemplo para probar el espejo.",
     "rating": 4.8,
-    "num_reseñas": 12,
+    "num_reseÃ±as": 12,
     "estado": "destacado",
     "plan": "pro",
     "foto_url": "",
@@ -23,10 +23,25 @@
     "telefono": "",
     "descripcion": "",
     "rating": 0,
-    "num_rese�as": 0,
+    "num_reseñas": 0,
     "estado": "nuevo",
     "plan": "basica",
     "foto_url": "",
     "enlace_ficha": "/negocio-local/test-1791978700136"
+  },
+  {
+    "id": "test-1791978760051",
+    "nombre": "Sin nombre",
+    "categoria": "",
+    "ciudad": "",
+    "direccion": "",
+    "telefono": "",
+    "descripcion": "",
+    "rating": 0,
+    "num_rese�as": 0,
+    "estado": "nuevo",
+    "plan": "basica",
+    "foto_url": "",
+    "enlace_ficha": "/negocio-local/test-1791978760051"
   }
 ]
