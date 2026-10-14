@@ -15,18 +15,19 @@
     "enlace_ficha": "/negocio-local/demo-001"
   },
   {
-    "id": "virtual-360-001",
-    "nombre": "Virtual 360 Soluciones",
-    "categoria": "Tours Virtuales",
-    "ciudad": "Santa Cruz de Tenerife",
-    "direccion": "Tenerife, Islas Canarias",
+    "id": "genius-serendipity-001",
+    "nombre": "GeniuSerendipity LTD",
+    "categoria": "Mentoria y Asesoria",
+    "ciudad": "London, UK",
+    "direccion": "London, United Kingdom",
     "telefono": "",
-    "descripcion": "Visitas virtuales 360 para negocios locales. Muestra tu espacio de forma inmersiva y atrae mas clientes online. Especialistas en tours para hosteleria, centros de salud y comercios.",
+    "descripcion": "Mentoria y asesoria estrategica para emprendedores y equipos. Programa GPS Serendipity para socios: acceso a recursos, comunidad y acompanamiento personalizado hacia tus metas.",
     "rating": 5.0,
-    "num_resenas": 8,
+    "num_resenas": 24,
     "estado": "destacado",
-    "plan": "pro",
+    "plan": "premium",
     "foto_url": "",
-    "enlace_ficha": "/centro/virtual-360-001"
+    "enlace_ficha": "/profesional/genius-serendipity-001",
+    "web": "https://GeniusSerendipity.com"
   }
 ]
