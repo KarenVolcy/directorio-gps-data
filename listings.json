@@ -21,7 +21,12 @@
     "maps_link": "",
     "maps_embed_url": "",
     "tour360_url": "",
-    "redes": { "instagram": "", "facebook": "", "linkedin": "", "tiktok": "" },
+    "redes": {
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "tiktok": ""
+    },
     "tags": [],
     "activo": true
   },
@@ -36,7 +41,7 @@
     "email": "CUB@gpserendipity.com",
     "web": "https://GeniusSerendipity.com",
     "descripcion": "Mentoria y asesoria estrategica para emprendedores y equipos. Programa GPS Serendipity para socios.",
-    "rating": 5.0,
+    "rating": 5,
     "num_resenas": 24,
     "estado": "destacado",
     "plan": "premium",
@@ -47,8 +52,17 @@
     "maps_link": "",
     "maps_embed_url": "",
     "tour360_url": "",
-    "redes": { "instagram": "", "facebook": "", "linkedin": "", "tiktok": "" },
-    "tags": ["mentoria", "asesoria", "online"],
+    "redes": {
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "tiktok": ""
+    },
+    "tags": [
+      "mentoria",
+      "asesoria",
+      "online"
+    ],
     "activo": true
   }
 ]
